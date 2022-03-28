@@ -1,0 +1,19 @@
+{
+    "name": "skidvisNFT",
+    "symbol": "SVNFT",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3beRiLXuneCoSemSueESJTJEDzP1ujwTBTUbtDvUWHTw",
+          "share": 100
+        }
+      ]
+    }
+  }
